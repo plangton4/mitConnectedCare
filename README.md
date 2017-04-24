@@ -18,6 +18,10 @@
   ```
   export FLASK_APP=app.py
   ```
+4. To turn on facial recognition
+```
+export PROD=True
+```
 
 ## Running Server
 1. Run `flask run`
